@@ -2,11 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-/* Crear un programa que pida al usuario los nombres, edades, y alturas de los jugadores de un equipo de baloncesto
-(5 jugadores). Posteriormente le presentar� un men� que le permita:
-1. Listar los nombres y alturas de los jugadores;
-2. Buscar un jugador por su nombre y presentar su altura y su edad;
-3. Indicar el nombre y la edad del jugador m�s alto del equipo.*/
 
 int main()
 {
